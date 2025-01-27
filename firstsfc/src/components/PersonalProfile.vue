@@ -1,15 +1,16 @@
 <!DOCTYPE html>
 <html>
-<head>
+<template
   <title>My first Vue page</title>
   <link rel="stylesheet" href="css/style.css">
   <link rel="stylesheet" href="css/flexbox-grid.css?version=0.1">
   <link rel="stylesheet" href="css/pink.css?version=0.1">
   <link rel="stylesheet" href="css/images.css?version=0.2">
   <link rel="stylesheet" href="css/shopping.css?version=0.1">
-</head>
+</template>
 <body>
 
+<script>
     <div class="container">
         <div class="section">
           <h3>About Me</h3>
@@ -110,6 +111,8 @@
 </div>
 </div>
   
+</script>
+
 <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
 <script src="js/vue.js"></script>
 <script src="js/images.js"></script>
