@@ -13,7 +13,7 @@
     <div class="container">
         <div class="section">
           <h3>About Me</h3>
-          <p>Frances Sophia T. Lepsot is my name, and I am a second-year student at Asia Pacific College. Although I was born in Quezon City, I spent my childhood in Pampanga before deciding to attend college in Manila.</p>
+          <p>Frances Sophia T. Lepsot is my name, and I am a second-year student at Asia Pacific College.</p>
         </div>
     
         <div class="section">
